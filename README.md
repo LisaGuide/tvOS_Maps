@@ -11,18 +11,7 @@ This is a simple Maps application for Apple TV tvOS.
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<h1>Changes from 1.0 include:</h1>
-<p>
-• Updated user interface.
-</p>
-<p>
-• Icon now reflects the new Maps icon in macOS 11.
-</p>
 
-<p></p>
 
 
 <img src="https://github.com/LisaGuide/tvOS_Maps/blob/master/ScreenshotLight.png">
