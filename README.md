@@ -11,6 +11,12 @@ This is a simple Maps application for Apple TV tvOS.
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p>
+Download the package from the Releases section.
+</p>
+<p></p>
 
 
 
