@@ -17,3 +17,5 @@ This is a simple Maps application for Apple TV tvOS.
 Download the package from the Releases section.
 </p>
 <p></p>
+<img src="https://github.com/LisaGuide/tvOS_Maps/blob/master/ScreenshotLight.png">
+<img src="https://github.com/LisaGuide/tvOS_Maps/blob/master/ScreenshotDark.png">
