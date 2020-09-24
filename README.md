@@ -1,7 +1,12 @@
 # Maps-tvOS
-<h1>Unofficial Maps for Apple TV</h1>
+<h1>Apple Watch Driving Simulator with 3D graphics.</h1>
                                                                                          
-<img src="https://github.com/LisaGuide/Apple-Watch-Driving-Simulator/blob/master/screenshot.png">
+<img src="https://github.com/LisaGuide/tvOS_Maps/blob/master/MapsIcon.png">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+This is a simple Maps application for Apple TV tvOS.
 
 <p></p>
 <p></p>
