@@ -1,5 +1,5 @@
 # Maps-tvOS
-<h1>Apple Watch Driving Simulator with 3D graphics.</h1>
+<h1>Unoffical Maps Application for Apple TV</h1>
                                                                                          
 <img src="https://github.com/LisaGuide/tvOS_Maps/blob/master/MapsIcon.png">
 <p></p>
